@@ -25,6 +25,7 @@ Level: Pemula
 
 Evaluasi Pembelajaran:
 
+- Ujian akhir kelas
 - Submission (Proyek Akhir) berupa membangun web server di komputer lokal/pribadi dengan menerapkan beberapa kriteria jaringan.
 
 Total jam yang dibutuhkan untuk menyelesaikan kelas ini adalah 25 jam.
